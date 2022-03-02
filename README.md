@@ -13,8 +13,8 @@
 
 ## 제1주차(Course Introduction & What is Empirical Science)
 
--  [**A섹션: Course Introduction**](https://github.com/hxk271/SocStats/blob/main/Beamer________W1A.pdf)
+-  [**A섹션: Course Introduction**](https://github.com/hxk271/SocStats/blob/main/Beamer______W1A.pdf)
 
--  [**B섹션: What is Empirical Science?**](https://github.com/hxk271/SocStats/blob/main/Beamer________W1B.pdf)
+-  [**B섹션: What is Empirical Science?**](https://github.com/hxk271/SocStats/blob/main/Beamer______W1B.pdf)
 
 -  [퀴즈 #1](https://github.com/hxk271/SocStats/blob/main/HW_W1.docx)
