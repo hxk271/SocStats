@@ -11,7 +11,7 @@
 
 <br/>
 
-## 제1주차(Course Introduction & What is Empirical Science)
+## 제1주차(강의 소개/통계학과 자료의 이해)
 
 -  [**A섹션: 강의 소개**](https://github.com/hxk271/SocStats/blob/main/Beamer______W1A.pdf)
 
