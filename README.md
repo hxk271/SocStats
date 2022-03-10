@@ -13,8 +13,20 @@
 
 ## 제1주차(강의 소개/통계학과 자료의 이해)
 
--  [**A섹션: 강의 소개**](https://github.com/hxk271/SocStats/blob/main/Beamer______W1A.pdf)
+-  [**A섹션: 강의 소개**](https://github.com/hxk271/SocStats/blob/main/Beamer______W01A.pdf)
 
--  [**B섹션: 통계학과 자료의 이해**](https://github.com/hxk271/SocStats/blob/main/Beamer______W1B.pdf)
+-  [**B섹션: 통계학과 자료의 이해**](https://github.com/hxk271/SocStats/blob/main/Beamer______W01B.pdf)
 
--  [퀴즈 #1](https://github.com/hxk271/SocStats/blob/main/HW_W1.docx)
+-  [퀴즈 #1](https://github.com/hxk271/SocStats/blob/main/HW_W01.docx)
+
+
+<br/>
+
+## 제2주차(자료의 수치요약)
+
+-  [**A섹션: 중심경향 측도**](https://github.com/hxk271/SocStats/blob/main/Beamer________W02A.pdf)
+
+-  [**B섹션: 산포경향 측도**](https://github.com/hxk271/SocStats/blob/main/Beamer________W02B.pdf)
+
+-  [퀴즈 #2](https://github.com/hxk271/SocStats/blob/main/HW_W02.docx)
+
