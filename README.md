@@ -24,9 +24,9 @@
 
 ## 제2주차(자료의 수치요약)
 
--  [**A섹션: 중심경향 측도**](https://github.com/hxk271/SocStats/blob/main/Beamer________W02A.pdf)
+-  [**A섹션: 중심경향 측도**](https://github.com/hxk271/SocStats/blob/main/Beamer______W02A.pdf)
 
--  [**B섹션: 산포경향 측도**](https://github.com/hxk271/SocStats/blob/main/Beamer________W02B.pdf)
+-  [**B섹션: 산포경향 측도**](https://github.com/hxk271/SocStats/blob/main/Beamer______W02B.pdf)
 
 -  [퀴즈 #2](https://github.com/hxk271/SocStats/blob/main/HW_W02.docx)
 
