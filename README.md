@@ -30,3 +30,15 @@
 
 -  [퀴즈 #2](https://github.com/hxk271/SocStats/blob/main/HW_W02.docx)
 
+
+<br/>
+
+## 제3주차(자료의 수치요약)
+
+-  [**A섹션: 두 양적 변수 사이의 관계**](https://github.com/hxk271/SocStats/blob/main/Beamer______W03A.pdf)
+
+-  [**B섹션: 두 질적 변수 사이의 관계**](https://github.com/hxk271/SocStats/blob/main/Beamer______W03B.pdf)
+
+-  [퀴즈 #2](https://github.com/hxk271/SocStats/blob/main/HW_W03.docx)
+
+
