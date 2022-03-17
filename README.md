@@ -39,6 +39,6 @@
 
 -  [**B섹션: 두 질적 변수 사이의 관계**](https://github.com/hxk271/SocStats/blob/main/Beamer______W03B.pdf)
 
--  [퀴즈 #2](https://github.com/hxk271/SocStats/blob/main/HW_W03.docx)
+-  [퀴즈 #3](https://github.com/hxk271/SocStats/blob/main/HW_W03.docx)
 
 
