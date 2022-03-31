@@ -44,12 +44,23 @@
 
 <br/>
 
-## 제3주차(자료의 시각화)
+## 제4주차(자료의 시각화)
 
 -  [**A섹션: 단일 변수의 시각화**](https://github.com/hxk271/SocStats/blob/main/Beamer______W04A.pdf)
 
 -  [**B섹션: 변수 간 관계의 시각화**](https://github.com/hxk271/SocStats/blob/main/Beamer______W04B.pdf)
 
 -  [퀴즈 #4](https://github.com/hxk271/SocStats/blob/main/HW_W04.docx)
+
+
+<br/>
+
+## 제5주차(확률이론)
+
+-  [**A섹션: 확률의 기초**](https://github.com/hxk271/SocStats/blob/main/Beamer______W05A.pdf)
+
+-  [**B섹션: 확률변수와 확률분포**](https://github.com/hxk271/SocStats/blob/main/Beamer______W05B.pdf)
+
+-  [퀴즈 #5](https://github.com/hxk271/SocStats/blob/main/HW_W05.docx)
 
 
