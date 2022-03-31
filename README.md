@@ -61,6 +61,6 @@
 
 -  [**B섹션: 확률변수와 확률분포**](https://github.com/hxk271/SocStats/blob/main/Beamer______W05B.pdf)
 
--  [퀴즈 #5](https://github.com/hxk271/SocStats/blob/main/HW_W05.docx)
+-  [퀴즈 #5](https://github.com/hxk271/SocStats/blob/main/HW_W05.zip)
 
 
