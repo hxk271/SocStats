@@ -64,3 +64,15 @@
 -  [퀴즈 #5](https://github.com/hxk271/SocStats/blob/main/HW_W05.zip)
 
 
+<br/>
+
+## 제6주차(이론적 확률분포)
+
+-  [**A섹션: 이산확률분포**](https://github.com/hxk271/SocStats/blob/main/Beamer______W06A.pdf)
+
+-  [**B섹션: 연속확률분포**](https://github.com/hxk271/SocStats/blob/main/Beamer______W06B.pdf)
+
+-  [퀴즈 #6](https://github.com/hxk271/SocStats/blob/main/HW_W06.docx)
+
+
+
