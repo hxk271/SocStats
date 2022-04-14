@@ -77,4 +77,10 @@
 -  [퀴즈 #6](https://github.com/hxk271/SocStats/blob/main/HW_W06.docx)
 
 
+<br/>
 
+## 제7주차(표집분포와 추정)
+
+-  [**A섹션: 표집분포**](https://github.com/hxk271/SocStats/blob/main/Beamer______W07A.pdf)
+
+-  [**B섹션: 통계적 추정**](https://github.com/hxk271/SocStats/blob/main/Beamer______W07B.pdf)
