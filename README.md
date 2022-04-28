@@ -84,3 +84,17 @@
 -  [**A섹션: 표집분포**](https://github.com/hxk271/SocStats/blob/main/Beamer______W07A.pdf)
 
 -  [**B섹션: 통계적 추정**](https://github.com/hxk271/SocStats/blob/main/Beamer______W07B.pdf)
+
+
+<br/>
+
+## 제8주차(중간시험)
+
+
+<br/>
+
+## 제9주차(가설검정)
+
+-  [**A섹션: 임계값을 이용한 가설검정**](https://github.com/hxk271/SocStats/blob/main/Beamer______W09A.pdf)
+
+-  [**B섹션: 유의확률을 이용한 가설검정**](https://github.com/hxk271/SocStats/blob/main/Beamer______W09B.pdf)
