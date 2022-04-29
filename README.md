@@ -98,3 +98,5 @@
 -  [**A섹션: 임계값을 이용한 가설검정**](https://github.com/hxk271/SocStats/blob/main/Beamer______W09A.pdf)
 
 -  [**B섹션: 유의확률을 이용한 가설검정**](https://github.com/hxk271/SocStats/blob/main/Beamer______W09B.pdf)
+
+-  [퀴즈 #7](https://github.com/hxk271/SocStats/blob/main/HW_W09.docx)
