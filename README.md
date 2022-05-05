@@ -93,10 +93,21 @@
 
 <br/>
 
-## 제9주차(가설검정)
+## 제9주차(단일집단 가설검정)
 
 -  [**A섹션: 임계값을 이용한 가설검정**](https://github.com/hxk271/SocStats/blob/main/Beamer______W09A.pdf)
 
 -  [**B섹션: 유의확률을 이용한 가설검정**](https://github.com/hxk271/SocStats/blob/main/Beamer______W09B.pdf)
+
+-  [퀴즈 #7](https://github.com/hxk271/SocStats/blob/main/HW_W09.docx)
+
+
+<br/>
+
+## 제10주차(두 집단 가설검정)
+
+-  [**A섹션: $t$ 분포와 $t$ 검정의 기초**](https://github.com/hxk271/SocStats/blob/main/Beamer______W10A.pdf)
+
+-  [**B섹션: 평균 및 비율 비교**](https://github.com/hxk271/SocStats/blob/main/Beamer______W09B.pdf)
 
 -  [퀴즈 #7](https://github.com/hxk271/SocStats/blob/main/HW_W09.docx)
