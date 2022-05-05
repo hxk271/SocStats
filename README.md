@@ -106,8 +106,8 @@
 
 ## 제10주차(두 집단 가설검정)
 
--  [**A섹션: $t$ 분포와 $t$ 검정의 기초**](https://github.com/hxk271/SocStats/blob/main/Beamer______W10A.pdf)
+-  [**A섹션: t 분포와 t 검정의 기초**](https://github.com/hxk271/SocStats/blob/main/Beamer______W10A.pdf)
 
--  [**B섹션: 평균 및 비율 비교**](https://github.com/hxk271/SocStats/blob/main/Beamer______W09B.pdf)
+-  [**B섹션: 평균 및 비율 비교**](https://github.com/hxk271/SocStats/blob/main/Beamer______W10B.pdf)
 
--  [퀴즈 #7](https://github.com/hxk271/SocStats/blob/main/HW_W09.docx)
+-  [퀴즈 #8](https://github.com/hxk271/SocStats/blob/main/HW_W10.docx)
