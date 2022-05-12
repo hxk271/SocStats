@@ -111,3 +111,14 @@
 -  [**B섹션: 평균 및 비율 비교**](https://github.com/hxk271/SocStats/blob/main/Beamer______W10B.pdf)
 
 -  [퀴즈 #8](https://github.com/hxk271/SocStats/blob/main/HW_W10.docx)
+
+
+<br/>
+
+## 제11주차(분산분석)
+
+-  [**A섹션: 분산에 관한 가설검정**](https://github.com/hxk271/SocStats/blob/main/Beamer______W11A.pdf)
+
+-  [**B섹션: 일원분산분석**](https://github.com/hxk271/SocStats/blob/main/Beamer______W11B.pdf)
+
+-  [퀴즈 #9](https://github.com/hxk271/SocStats/blob/main/HW_W11.docx)
