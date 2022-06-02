@@ -144,3 +144,19 @@
 -  [**B섹션: 단순회귀분석**](https://github.com/hxk271/SocStats/blob/main/Beamer______W13B.pdf)
 
 -  [퀴즈 #11](https://github.com/hxk271/SocStats/blob/main/HW_W13.docx)
+
+
+<br/>
+
+## 제14주차(다중회귀분석)
+
+-  [**A섹션: 다중회귀분석과 모형적합도**](https://github.com/hxk271/SocStats/blob/main/Beamer______W14A.pdf)
+
+-  [**B섹션: 더미변수와 회귀분석의 가정**](https://github.com/hxk271/SocStats/blob/main/Beamer______W14B.pdf)
+
+
+<br/>
+
+## 제15주차(기말시험)
+
+사랑하는 2022년 1학기 사회통계 수강생 여러분, 한 학기동안 수고 많았습니다!
