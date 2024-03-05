@@ -15,8 +15,6 @@
 
 ## 제1주차(강의 소개/통계학과 자료의 이해)
 
--  [**A섹션: 강의 소개**](https://github.com/hxk271/SocStats/blob/main/Beamer______W01A.pdf)
+-  [**A섹션: 강의 소개**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W01A.pdf)
 
--  [**B섹션: 통계학과 자료의 이해**](https://github.com/hxk271/SocStats/blob/main/Beamer______W01B.pdf)
-
--  [퀴즈 #1](https://github.com/hxk271/SocStats/blob/main/HW_W01.docx)
+-  [**B섹션: 통계학과 자료의 이해**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W01B.pdf)
