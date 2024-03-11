@@ -18,3 +18,12 @@
 -  [**A섹션: 강의 소개**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W01A.pdf)
 
 -  [**B섹션: 통계학과 자료의 이해**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W01B.pdf)
+
+
+<br/>
+
+## 제2주차(자료의 수치요약)
+
+-  [**A섹션: 중심경향 측도**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W02A.pdf)
+
+-  [**B섹션: 산포경향 측도**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W02B.pdf)
