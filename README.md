@@ -31,7 +31,7 @@
 
 <br/>
 
-## 제2주차(자료의 연관성 측도)
+## 제3주차(자료의 연관성 측도)
 
 -  [**A섹션: 두 양적변수 사이의 관계**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W03A.pdf)
 
