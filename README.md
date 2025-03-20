@@ -41,4 +41,4 @@
 
 -  [**B섹션: 두 질적변수 사이의 관계**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W03B.pdf)
 
-
+-  [**과제**](https://github.com/hxk271/SocStats/blob/main/과제_W03.pdf)
