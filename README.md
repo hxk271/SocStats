@@ -64,3 +64,14 @@
 -  [**B섹션: 확률변수와 확률분포**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W05B.pdf)
 
 -  [**과제**](https://github.com/hxk271/SocStats/blob/main/과제_W05.pdf)
+
+
+<br/>
+
+## 제6주차(이론적 확률분포)
+
+-  [**A섹션: 이산확률분포**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W06A.pdf)
+
+-  [**B섹션: 연속확률분포**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W06B.pdf)
+
+-  [**과제**](https://github.com/hxk271/SocStats/blob/main/과제_W06.pdf)
