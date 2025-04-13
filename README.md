@@ -75,3 +75,14 @@
 -  [**B섹션: 연속확률분포**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W06B.pdf)
 
 -  [**과제**](https://github.com/hxk271/SocStats/blob/main/과제_W06.pdf)
+
+
+<br/>
+
+## 제7주차(표집분포와 추정)
+
+-  [**A섹션: 표집분포**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W07A.pdf)
+
+-  [**B섹션: 통계적 추정**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W07B.pdf)
+
+-  [**과제**](https://github.com/hxk271/SocStats/blob/main/과제_W06.pdf)
