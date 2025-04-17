@@ -85,4 +85,11 @@
 
 -  [**B섹션: 통계적 추정**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W07B.pdf)
 
--  [**과제**](https://github.com/hxk271/SocStats/blob/main/과제_W06.pdf)
+-  [**과제**](https://github.com/hxk271/SocStats/blob/main/과제_W07.pdf)
+
+
+<br/>
+
+## 제8주차(중간시험)
+
+-  [**중간시험 관련 안내**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W08_중간시험.pdf)
