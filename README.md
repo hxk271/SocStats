@@ -110,7 +110,7 @@
 
 ## 제10주차(두 집단 가설검정)
 
--  [**A섹션: $t$ 분포와 $t$ 검정의 기초**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W10A.pdf)
+-  [**A섹션: $$t$$ 분포와 t 검정의 기초**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W10A.pdf)
 
 -  [**B섹션: 평균 비교**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W10B.pdf)
 
