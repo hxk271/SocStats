@@ -104,3 +104,15 @@
 -  [**B섹션: 유의확률을 이용한 가설검정**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W09B.pdf)
 
 -  [**과제**](https://github.com/hxk271/SocStats/blob/main/과제_W09.pdf)
+
+
+<br/>
+
+## 제10주차(두 집단 가설검정)
+
+-  [**A섹션: $t$ 분포와 $t$ 검정의 기초**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W10A.pdf)
+
+-  [**B섹션: 평균 비교**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W10B.pdf)
+
+-  [**과제**](https://github.com/hxk271/SocStats/blob/main/과제_W10.pdf)
+
