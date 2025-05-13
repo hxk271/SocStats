@@ -116,3 +116,13 @@
 
 -  [**과제**](https://github.com/hxk271/SocStats/blob/main/과제_W10.pdf)
 
+
+<br/>
+
+## 제11주차(분산분석)
+
+-  [**A섹션: 분산에 관한 가설검정**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W11A.pdf)
+
+-  [**B섹션: 일원분산분석**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W11B.pdf)
+
+-  [**과제**](https://github.com/hxk271/SocStats/blob/main/과제_W11.pdf)
