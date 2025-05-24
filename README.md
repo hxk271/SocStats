@@ -126,3 +126,14 @@
 -  [**B섹션: 일원분산분석**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W11B.pdf)
 
 -  [**과제**](https://github.com/hxk271/SocStats/blob/main/과제_W11.pdf)
+
+
+<br/>
+
+## 제12주차(카이제곱분석)
+
+-  [**A섹션: 교차표 복습과 카이제곱분석**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W12A.pdf)
+
+-  [**B섹션: 카이제곱분석의 연습과 방법론적 이슈들**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W12B.pdf)
+
+-  [**과제**](https://github.com/hxk271/SocStats/blob/main/과제_W12.pdf)
