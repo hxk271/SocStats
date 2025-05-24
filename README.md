@@ -137,3 +137,15 @@
 -  [**B섹션: 카이제곱분석의 연습과 방법론적 이슈들**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W12B.pdf)
 
 -  [**과제**](https://github.com/hxk271/SocStats/blob/main/과제_W12.pdf)
+
+
+<br/>
+
+## 제13주차(상관분석과 단순회귀분석)
+
+-  [**A섹션: 상관분석**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W13A.pdf)
+
+-  [**B섹션: 단순회귀분석**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W13B.pdf)
+
+-  [**과제**](https://github.com/hxk271/SocStats/blob/main/과제_W13.pdf)
+
