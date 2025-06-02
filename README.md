@@ -149,3 +149,22 @@
 
 -  [**과제**](https://github.com/hxk271/SocStats/blob/main/과제_W13.pdf)
 
+
+<br/>
+
+## 제14주차(다중회귀분석)
+
+-  [**A섹션: 다중회귀분석**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W14A.pdf)
+
+-  [**B섹션: 회귀모형의 적합도와 가정**](https://github.com/hxk271/SocStats/blob/main/Beamer_사회통계_W14B.pdf)
+
+
+<br/>
+
+## 제15주차(기말시험)
+
+
+<br/>
+
+
+사랑하는 2025년 1학기 사회통계 수강생 여러분, 한 학기동안 수고 많았습니다!
