@@ -32,3 +32,14 @@
 
 -  [**과제**](https://github.com/hxk271/SocStats/blob/main/archive/과제_W02.pdf)
 
+
+<br/>
+
+## 제3주차(자료의 연관성 측도)
+
+-  [**A섹션: 두 양적변수 사이의 관계**](https://github.com/hxk271/SocStats/blob/main/archive/Beamer_사회통계_W03A.pdf)
+
+-  [**B섹션: 두 질적변수 사이의 관계**](https://github.com/hxk271/SocStats/blob/main/archive/Beamer_사회통계_W03B.pdf)
+
+-  [**과제**](https://github.com/hxk271/SocStats/blob/main/archive/과제_W03.pdf)
+
