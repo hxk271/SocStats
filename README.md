@@ -43,3 +43,14 @@
 
 -  [**과제**](https://github.com/hxk271/SocStats/blob/main/archive/과제_W03.pdf)
 
+
+<br/>
+
+## 제4주차(자료의 시각화)
+
+-  [**A섹션: 단일 변수의 시각화**](https://github.com/hxk271/SocStats/blob/main/archive/Beamer_사회통계_W04A.pdf)
+
+-  [**B섹션: 변수 간 관계의 시각화**](https://github.com/hxk271/SocStats/blob/main/archive/Beamer_사회통계_W04B.pdf)
+
+-  [**과제**](https://github.com/hxk271/SocStats/blob/main/archive/과제_W04.pdf)
+
