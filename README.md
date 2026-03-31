@@ -54,3 +54,14 @@
 
 -  [**과제**](https://github.com/hxk271/SocStats/blob/main/archive/과제_W04.pdf)
 
+
+<br/>
+
+## 제5주차(확률이론)
+
+-  [**A섹션: 확률의 기초**](https://github.com/hxk271/SocStats/blob/main/archive/Beamer_사회통계_W05A.pdf)
+
+-  [**B섹션: 확률변수와 확률분포**](https://github.com/hxk271/SocStats/blob/main/archive/Beamer_사회통계_W05B.pdf)
+
+-  [**과제**](https://github.com/hxk271/SocStats/blob/main/archive/과제_W05.pdf)
+
