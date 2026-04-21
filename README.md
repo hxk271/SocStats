@@ -93,8 +93,6 @@
 
 ## 제8주차(중간시험)
 
--  [**중간시험 관련 안내**](https://github.com/hxk271/SocStats/blob/main/archive/Beamer_사회통계_W08_중간시험.pdf)
-
 
 <br/>
 
