@@ -86,3 +86,22 @@
 -  [**B섹션: 통계적 추정**](https://github.com/hxk271/SocStats/blob/main/archive/Beamer_사회통계_W07B.pdf)
 
 -  [**과제**](https://github.com/hxk271/SocStats/blob/main/archive/과제_W07.pdf)
+
+
+
+<br/>
+
+## 제8주차(중간시험)
+
+-  [**중간시험 관련 안내**](https://github.com/hxk271/SocStats/blob/main/archive/Beamer_사회통계_W08_중간시험.pdf)
+
+
+<br/>
+
+## 제9주차(단일집단 가설검정)
+
+-  [**A섹션: 임계값을 이용한 가설검정**](https://github.com/hxk271/SocStats/blob/main/archive/Beamer_사회통계_W09A.pdf)
+
+-  [**B섹션: 유의확률을 이용한 가설검정**](https://github.com/hxk271/SocStats/blob/main/archive/Beamer_사회통계_W09B.pdf)
+
+-  [**과제**](https://github.com/hxk271/SocStats/blob/main/archive/과제_W09.pdf)
